@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am **passionate** about learning how to code! :computer: Still trying to figure out the *best* resources and strategies, but I wanted to get started right away! :tada:
